@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  serial_number: MyString
+  category: one
+  purchased_on: 2026-05-24
+  status: MyString
+
+two:
+  name: MyString
+  serial_number: MyString
+  category: two
+  purchased_on: 2026-05-24
+  status: MyString
