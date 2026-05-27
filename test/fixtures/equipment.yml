@@ -2,14 +2,14 @@
 
 one:
   name: MyString
-  serial_number: MyString
+  serial_number: SN1
   category: one
   purchased_on: 2026-05-24
   status: MyString
 
 two:
   name: MyString
-  serial_number: MyString
+  serial_number: SN2
   category: two
   purchased_on: 2026-05-24
   status: MyString
